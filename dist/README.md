@@ -9,12 +9,12 @@ This displays a cities current weather and a 5 day forecast of that cities wethe
 
 ## Table of Contents
 
-* [Installation] (#installation)
-* [Usage] (#usage)
-* [License] (#license)
-* [Contributing] (#contributing)
-* [Tests] (#tests)
-* [Questions] (#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#test)
+* [Questions](#questions)
 
 ## Installation 
 

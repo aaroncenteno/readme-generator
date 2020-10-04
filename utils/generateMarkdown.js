@@ -55,11 +55,11 @@ ${generateObjectLicense(license)}
 
 ## Contributing
 
-${generateList(contributors)}
+${generateList(contributing)}
 
 ## Tests
 
-${tests}
+${test}
 
 ## Questions
 

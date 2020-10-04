@@ -68,6 +68,8 @@ const questions = [
    }
 ];
 
+return inquirer.prompt(questions);
+
 // function to write README file
 function writeToFile(fileName, data) {
 }

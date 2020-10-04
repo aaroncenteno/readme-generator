@@ -23,8 +23,50 @@ const generateObjectLicense = objectLicense => {
 // function to generate markdown for README
 function generateMarkdown(data) {
     const {title, description, installation, usage, license, contributing, test, username, email} = data
-    return `# ${data.title}
-  
+    return `
+${generateBadges(license)}
+
+#${title}
+
+## Description
+
+${description}
+
+## Table of Contents
+
+* [Installation] (#installation)
+* [Usage] (#usage)
+* [License] (#license)
+* [Contributing] (#contributing)
+* [Tests] (#tests)
+* [Questions] (#questions)
+
+## Installation 
+
+${installation}
+
+## Usage
+
+${usage}
+
+## Licenses
+
+${generateObjectLicense(license)}
+
+## Contributing
+
+${generateList(contributors)}
+
+## Tests
+
+${tests}
+
+## Questions
+
+Contact Information for questions: \n
+
+GitHub: [${username}] (https://www.github.com/${username}) \n
+E-mail: ${email}
   `;
   }
   

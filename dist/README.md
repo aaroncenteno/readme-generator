@@ -38,6 +38,12 @@ Type in a California couty into the search modal and then click search. The data
 
 n/a
 
+## Screenshots
+
+![Sample Readme](./imgs/Sample-Readme)
+
+![Command Line Screenshot](./imgs/Command-Line)
+
 ## Questions
 
 Contact Information for questions: 

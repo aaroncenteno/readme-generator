@@ -25,11 +25,11 @@ Download the application and run the installation process. In the command line r
 
 ## Licenses
 
-*MIT
+* MIT
 
 ## Contributing
 
-*Aaron Centeno
+* Aaron Centeno
 
 ## Technologies Used
 * Screencastify

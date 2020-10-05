@@ -1,6 +1,6 @@
 const generateList = commalist => {
     listarray = commalist.split(",")
-    listarray = listarray.map(listitem => "*" + listitem)
+    listarray = listarray.map(listitem => "* " + listitem)
     return listarray.join(" \n")
 };
 

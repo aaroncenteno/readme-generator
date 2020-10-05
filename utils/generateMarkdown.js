@@ -65,7 +65,7 @@ ${test}
 
 Contact Information for questions: \n
 
-GitHub: [${username}] (https://www.github.com/${username}) \n
+GitHub: [${username}](https://www.github.com/${username}) \n
 E-mail: ${email}
   `;
   }

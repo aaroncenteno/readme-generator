@@ -26,7 +26,7 @@ function generateMarkdown(data) {
     return `
 ${generateBadges(license)}
 
-#${title}
+# ${title}
 
 ## Description
 

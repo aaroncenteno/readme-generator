@@ -1,11 +1,11 @@
 
 ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=BLUE)
 
-#undefined
+# Readme-Generator
 
 ## Description
 
-This displays a cities current weather and a 5 day forecast of that cities wether.
+This application will generate a professional readme for all of your projects!
 
 ## Table of Contents
 
@@ -13,16 +13,16 @@ This displays a cities current weather and a 5 day forecast of that cities wethe
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#test)
+* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation 
 
-No Install Necessary, Simply clone the repository and open in google chrome.
+run npm i in the command line to install all the necessary dependencies.
 
 ## Usage
 
-Type in a city in the search input and then click search.
+Download the application and run the installation process. In the command line run 'node index' and answer all the provided prompts. Once all the prompts have been answered the readme will be generated inside of the 'dist' directory!
 
 ## Licenses
 

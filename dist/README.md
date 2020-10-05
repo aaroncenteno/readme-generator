@@ -26,7 +26,7 @@ Type in a California couty into the search modal and then click search. The data
 
 ## Licenses
 
-*MIT
+* MIT
 
 ## Contributing
 

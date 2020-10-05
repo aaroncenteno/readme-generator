@@ -15,7 +15,7 @@ const generateBadges = badgeArr => {
 
 
 const generateObjectLicense = objectLicense => {
-    objectLicense = objectLicense.map(itemLicense => "*" + itemLicense)
+    objectLicense = objectLicense.map(itemLicense => "* " + itemLicense)
     return objectLicense.join(" \n")
 }
 

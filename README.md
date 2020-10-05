@@ -41,6 +41,12 @@ Download the application and run the installation process. In the command line r
 
 https://drive.google.com/file/d/1p8L8Ksho8vkRd1jEwALFJmSss5hjCBAO/view
 
+## Screenshots
+
+![Sample Readme](./assets/imgs/samplereadme.png)
+
+![Command Line Screenshot](./assets/imgs/commandline.png)
+
 ## Questions
 
 Contact Information for questions: 

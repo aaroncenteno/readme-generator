@@ -40,9 +40,9 @@ n/a
 
 ## Screenshots
 
-![Sample Readme](./assets/imgs/sample-readme.png)
+![Sample Readme](./assets/imgs/samplereadme.png)
 
-![Command Line Screenshot](./assets/imgs/command-line.png)
+![Command Line Screenshot](./assets/imgs/commandline.png)
 
 ## Questions
 

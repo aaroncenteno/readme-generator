@@ -46,6 +46,6 @@ https://drive.google.com/file/d/1a9Itjnkw-k4c0c3QmVNH4FfGOj5rNh48/view
 Contact Information for questions: 
 
 
-GitHub: [aaroncenteno] (https://www.github.com/aaroncenteno) 
+GitHub: [aaroncenteno](https://www.github.com/aaroncenteno) 
 
 E-mail: asamcent@gmail.com

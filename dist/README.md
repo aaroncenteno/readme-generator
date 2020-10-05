@@ -1,11 +1,11 @@
 
 ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=BLUE)
 
-# Readme-Generator
+# covid-ca
 
 ## Description
 
-This application will generate a professional readme for all of your projects!
+This project shows a county in California covid-19 statistics and where you can go to get tested for covid!
 
 ## Table of Contents
 
@@ -18,11 +18,11 @@ This application will generate a professional readme for all of your projects!
 
 ## Installation 
 
-run npm i in the command line to install all the necessary dependencies.
+n/a
 
 ## Usage
 
-Download the application and run the installation process. In the command line run 'node index' and answer all the provided prompts. Once all the prompts have been answered the readme will be generated inside of the 'dist' directory!
+Type in a California couty into the search modal and then click search. The data will be displayed to the page! Click on any of the addresses to be neavigated to a local testing facility and click on the link below the five testing facilities to be taken to a new page with more testing facilities in that county.
 
 ## Licenses
 
@@ -30,7 +30,9 @@ Download the application and run the installation process. In the command line r
 
 ## Contributing
 
-*Aaron Centeno
+* Laquesha Nance 
+*  Suzanna Akins 
+*  Aaron Centeno
 
 ## Tests
 
@@ -41,7 +43,7 @@ n/a
 Contact Information for questions: 
 
 
-GitHub: [aaroncenteno] (https://www.github.com/aaroncenteno) 
+GitHub: [aaroncenteno](https://www.github.com/aaroncenteno) 
 
 E-mail: asamcent@gmail.com
   

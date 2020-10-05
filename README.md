@@ -39,7 +39,7 @@ Download the application and run the installation process. In the command line r
 
 ## Tutorial Video
 
-https://drive.google.com/file/d/1a9Itjnkw-k4c0c3QmVNH4FfGOj5rNh48/view
+https://drive.google.com/file/d/1p8L8Ksho8vkRd1jEwALFJmSss5hjCBAO/view
 
 ## Questions
 

@@ -36,7 +36,7 @@ ${description}
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
+* [License](#licenses)
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
